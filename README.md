@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Dilshanx
+# 👋 Hi, I'm @Dilshan
 
 Full-stack developer passionate about creating seamless web and mobile experiences with React Flutter, and more.
 
