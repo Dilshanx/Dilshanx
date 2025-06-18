@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Flutter+Enthusiast;AWS+Cloud+Practitioner;DevOps+Enthusiast;Always+Learning+New+Tech;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Flutter+Enthusiast;AWS+Cloud;DevOps+Enthusiast;Always+Learning+New+Tech;Open+Source+Contributor)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshan-jayatissa-21ba05311)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilshanjayatissa@gmail.com)
