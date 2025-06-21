@@ -20,7 +20,7 @@ const dilshanJayatissa = {
     location: "🇱🇰 Sri Lanka",
     passions: ["Web Development", "Mobile Apps", "Cloud Architecture", "DevOps", "Clean Code", "Innovation"],
     currentFocus: "Building scalable cloud-native applications with React & AWS",
-    learning: ["Advanced React Patterns", "AWS Solutions Architecture", "Kubernetes", "Infrastructure as Code"],
+    learning: ["Advanced React Patterns", "AWS Cloud Practitioner", "Kubernetes", "Infrastructure as Code"],
     collaboration: "Open to exciting projects and open-source contributions",
     funFact: "I turn coffee into code and deploy it to the cloud ☕ → 💻 → ☁️",
     motto: "Code with passion, debug with patience, deploy with confidence"
